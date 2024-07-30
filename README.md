@@ -6,7 +6,8 @@
   <li>Evaluated product performance, pinpointing best-sellers by quantity and revenue.</li>
   <li>Analyzed sales by product category and type.</li>
 </ul>
-
+</br>
+<img src="image/Output Image.png" >
 
 
 
